@@ -14,8 +14,8 @@ Tableau Public vs Pro
 |   local data, Google Sheets,  OData,  Web Data Connector  |    Local data, servers, saved data sources |    
 
 
-Open Data Protocol: <https://onlinehelp.tableau.com/v10.4/pro/desktop/en-us/examples_odata.html>  
-Web Data Connector: <https://onlinehelp.tableau.com/current/pro/desktop/en-us/examples_web_data_connector.htm>
+<small>Open Data Protocol: <https://onlinehelp.tableau.com/v10.4/pro/desktop/en-us/examples_odata.html>  
+Web Data Connector: <https://onlinehelp.tableau.com/current/pro/desktop/en-us/examples_web_data_connector.htm></small>
 
 Tableau Tutorials
 ========================================================
@@ -28,13 +28,13 @@ Dimensions and Measures
 =========================================================
 
 **Dimensions**:  qualitative values, names dates or geographic data. Use to categorize and segment. 
-**Measures**:  numeric, quantitative valuees, can be aggrigated (the default)
+**Measures**:  numeric, quantitative valuees, can be aggrigated (the default)  
 
 **Blue** and **Green Fields**:  
 **Green** measures and dimensions are continuous.  
 **Blue** measures and dimensions are discrete.
 
-From Tableau online help: <https://onlinehelp.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm>  
+<small>From Tableau online help: <https://onlinehelp.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm></small>  
 
 Continuous vs Discrete
 ========================================================

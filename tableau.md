@@ -4,26 +4,15 @@ author:
 date:
 autosize: true
 
-Tableau Public vs. Tableau Pro
-========================================================
-
-- local data, Google Sheets, OData
-Web Data Connector
-
-- Free
-
-- Only save to Tableau Public Server
-
-- No live data
-
-***
-- local data, Servers, Saved Data Sources
-
-- Academic 1-year account or ~$700/year
-
-- Save work locally
-
-- Live data
+Tableau Public vs Pro
+=========================================================
+| Tableau Public | Tableau Desktop | 
+|------:|:-----|
+|   Free  | ~$700/yr or 1 yr academic |    
+|  Only save to Tableau Public Server  |  Can save locally |   
+|   No live data connection  |    Live data |    
+|   local data, Google Sheets, OData, Web Data Connector  |    Local data, servers, saved data sources |    
+  : Demonstration of simple table syntax.
 
 
 Tableau Tutorials
@@ -34,12 +23,4 @@ Tableau Tutorials
 
 
 
-Test
-=========================================================
-| Right | Left | Default | Center |
-|------:|:-----|---------|:------:|
-|   12  |  12  |    12   |    12  |
-|  123  |  123 |   123   |   123  |
-|    1  |    1 |     1   |     1  |
 
-  : Demonstration of simple table syntax.
